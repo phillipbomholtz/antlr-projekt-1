@@ -1,0 +1,15 @@
+//this is a very simple program without any real purpose.
+//it is simply here to showcase implementations of assigning, if-else statements, while loop, sequence and user input.
+x = input();
+
+if(x > 10 || x < 0 && !x == 3) {
+    while (x > 10){
+       x = x - 1;
+    }
+} 
+else 
+{
+    x = 3;
+}
+
+x
